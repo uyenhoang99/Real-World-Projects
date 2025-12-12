@@ -1,4 +1,6 @@
-SELECT * FROM public.student_performance;
+--view the data in student_performance
+SELECT * FROM public.student_performance
+LIMIT 5;
 
 -- avg_exam_score_by_study_and_extracurricular
 -- Edit the query below as needed
