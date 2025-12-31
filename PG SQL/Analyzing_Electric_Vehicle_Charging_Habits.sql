@@ -1,3 +1,7 @@
+SELECT * 
+FROM public.charging_sessions
+LIMIT 5;
+
 /*Find the number of unique individuals that use each garage’s shared charging stations. 
 The output should contain two columns: garage_id and num_unique_users. 
 Sort your results by the number of unique users from highest to lowest. 
