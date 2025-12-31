@@ -1,3 +1,6 @@
+SELECT * FROM public.international_debt
+LIMIT 5;
+
 /*What is the number of distinct countries present in the database? 
 The output should be single row and column aliased as total_distinct_countries. 
 Save the query as num_distinct_countries.*/
