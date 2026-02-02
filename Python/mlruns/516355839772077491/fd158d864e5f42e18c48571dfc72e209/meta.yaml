@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/uyen/Desktop/Real-World-Projects/Python/mlruns/516355839772077491/fd158d864e5f42e18c48571dfc72e209/artifacts
+end_time: 1770013398076
+entry_point_name: ''
+experiment_id: '516355839772077491'
+lifecycle_stage: active
+run_id: fd158d864e5f42e18c48571dfc72e209
+run_name: linear regression
+run_uuid: fd158d864e5f42e18c48571dfc72e209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770013394395
+status: 3
+tags: []
+user_id: uyen

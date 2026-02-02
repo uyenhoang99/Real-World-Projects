@@ -1,0 +1,33 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+is_signature_from_type_hint: false
+mlflow_version: 2.22.1
+model_size_bytes: 97965446
+model_uuid: b9d0cd5941424c1889bfe32743e80b7b
+prompts: null
+run_id: c0068438c0ba41ceac9b62c80816ba2e
+signature:
+  inputs: '[{"type": "double", "name": "date", "required": true}, {"type": "double",
+    "name": "cloud_cover", "required": true}, {"type": "double", "name": "sunshine",
+    "required": true}, {"type": "double", "name": "global_radiation", "required":
+    true}, {"type": "double", "name": "max_temp", "required": true}, {"type": "double",
+    "name": "min_temp", "required": true}, {"type": "double", "name": "precipitation",
+    "required": true}, {"type": "double", "name": "pressure", "required": true}, {"type":
+    "double", "name": "snow_depth", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-02-02 06:23:27.001485'

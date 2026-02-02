@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/uyen/Desktop/Real-World-Projects/Python/mlruns/516355839772077491/c310069a413e415084e42a03503f12ae/artifacts
+end_time: 1770013401819
+entry_point_name: ''
+experiment_id: '516355839772077491'
+lifecycle_stage: active
+run_id: c310069a413e415084e42a03503f12ae
+run_name: decision tree regressor
+run_uuid: c310069a413e415084e42a03503f12ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770013398081
+status: 3
+tags: []
+user_id: uyen

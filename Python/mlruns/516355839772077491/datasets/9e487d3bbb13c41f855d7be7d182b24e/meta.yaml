@@ -1,0 +1,13 @@
+digest: e054ecef
+name: dataset
+profile: '{"num_rows": 3069, "num_elements": 27621}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "date", "required": true},
+  {"type": "double", "name": "cloud_cover", "required": true}, {"type": "double",
+  "name": "sunshine", "required": true}, {"type": "double", "name": "global_radiation",
+  "required": true}, {"type": "double", "name": "max_temp", "required": true}, {"type":
+  "double", "name": "min_temp", "required": true}, {"type": "double", "name": "precipitation",
+  "required": true}, {"type": "double", "name": "pressure", "required": true}, {"type":
+  "double", "name": "snow_depth", "required": true}]}'
+source: '{"tags": {"mlflow.user": "uyen", "mlflow.source.name": "c:\\Users\\uyen\\anaconda3\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
